@@ -1,0 +1,68 @@
+Initialize engine version: 5.6.1f1 (2860b30f0b54)
+GfxDevice: creating device client; threaded=1
+d3d11: D3D_FEATURE_LEVEL_11_1 not-recognized (only 11.0 runtime installed?)
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics (ID=0x152)
+    Vendor:   Intel
+    VRAM:     880 MB
+    Driver:   8.15.10.2712
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\18050014\Desktop\New folder\BallGang_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\18050014\Desktop\New folder\BallGang_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\18050014\Desktop\New folder\BallGang_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\18050014\Desktop\New folder\BallGang_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\18050014\Desktop\New folder\BallGang_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\18050014\Desktop\New folder\BallGang_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\18050014\Desktop\New folder\BallGang_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\18050014\Desktop\New folder\BallGang_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\18050014\Desktop\New folder\BallGang_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\18050014\Desktop\New folder\BallGang_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.023 seconds
+Platform assembly: C:\Users\18050014\Desktop\New folder\BallGang_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\18050014\Desktop\New folder\BallGang_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 3.040661 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 1318 -> priority: 1 
+  Thread -> id: dd8 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.013032 ms
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 1549.
+Total: 0.755422 ms (FindLiveObjects: 0.074951 ms CreateObjectMapping: 0.042296 ms MarkObjects: 0.271504 ms  DeleteObjects: 0.366359 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.501515 ms
+
+Unloading 43 unused Assets to reduce memory usage. Loaded Objects now: 306.
+Total: 1.041232 ms (FindLiveObjects: 0.022081 ms CreateObjectMapping: 0.016794 ms MarkObjects: 0.223610 ms  DeleteObjects: 0.778125 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.412387 ms
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 1550.
+Total: 0.739561 ms (FindLiveObjects: 0.075573 ms CreateObjectMapping: 0.041052 ms MarkObjects: 0.274925 ms  DeleteObjects: 0.347077 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.405104 ms
+
+Unloading 43 unused Assets to reduce memory usage. Loaded Objects now: 306.
+Total: 0.961616 ms (FindLiveObjects: 0.022392 ms CreateObjectMapping: 0.017105 ms MarkObjects: 0.200595 ms  DeleteObjects: 0.720901 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.663366 ms
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 1550.
+Total: 0.735518 ms (FindLiveObjects: 0.085836 ms CreateObjectMapping: 0.041363 ms MarkObjects: 0.273681 ms  DeleteObjects: 0.333704 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.367162 ms
+
+Unloading 43 unused Assets to reduce memory usage. Loaded Objects now: 306.
+Total: 1.051806 ms (FindLiveObjects: 0.022081 ms CreateObjectMapping: 0.017105 ms MarkObjects: 0.219878 ms  DeleteObjects: 0.791809 ms)
+
